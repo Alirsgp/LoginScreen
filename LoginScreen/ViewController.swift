@@ -14,6 +14,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
+    
+    //CHANGE MADE
     @IBOutlet weak var LoginButton: UIButton!
     
     @IBOutlet weak var userText: UITextField!
